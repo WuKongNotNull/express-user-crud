@@ -5,9 +5,9 @@
 ![img.png](img.png)
 
 ## 技术介绍
-后端：Nodejs、 Express
-前端： BootStrap
-数据库： mySql 8.x
+- 后端：Nodejs、 Express
+- 前端： BootStrap
+- 数据库： mySql 8.x
 
 ## 后端 API 接口文档
 https://www.apifox.cn/apidoc/shared-44fba203-8cf0-4991-97a5-553b4ed0dc05
